@@ -4,3 +4,4 @@ It's an application that facilitates the work of dentists especially nowadays wi
 
 ## Features :dart:
 * [x] Free & Open Source
+* [x] Very Easy to use
