@@ -6,3 +6,4 @@ It's an application that facilitates the work of dentists especially nowadays wi
 * [x] Free & Open Source
 * [x] Very Easy to use
 * [x] Cross Platform App (Android - IOS)
+* [x] Good user interfaces
